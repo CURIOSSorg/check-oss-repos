@@ -36,7 +36,6 @@ None of these are mandatory; this is meant to be a guide.
 - [ ] Is there a `SUPPORT.md`, or another clear place that says where to get help?
 - [ ] Is there a `CHANGELOG`, ideally following [Keep a Changelog](https://keepachangelog.com/)?
   - [ ] If there isn't, are notes included in the project's releases?
-- [ ] Does this pass [`alex`](https://github.com/get-alex/alex) adequately? Run `alex *.md`.
 - [ ] Does the repository name itself pass on http://wordsafety.com?
 - [ ] Can users follow updates without watching the whole repository, for example through releases or an Announcements category in GitHub Discussions?
 - [ ] _(Research software)_ Is there a `CITATION.cff` file?
@@ -54,7 +53,6 @@ None of these are mandatory; this is meant to be a guide.
 - [ ] Is there a `good first issue` label?
 - [ ] Is there a `help wanted` label?
 - [ ] Is there a `waiting on contributor` label?
-- [ ] If a bot automatically closes stale issues or PRs, is that really needed? These bots can drive contributors away.
 
 ### Security
 - [ ] Is there a `SECURITY.md`?
@@ -137,6 +135,6 @@ _Write a note here_
 
 ## Contribute back?
 
-This checklist is open source! If you have suggestions or think it could be better, contribute back on [mntnr/audit-templates](https://github.com/mntnr/audit-templates).
+This checklist is open source! If you have suggestions or think it could be better, contribute back on https://github.com/RichardLitt/check-oss-repos/!
 
 Thank you!
