@@ -64,6 +64,6 @@ None of these are mandatory; this is meant to be a guide.
 
 ## Contribute back?
 
-This checklist is open source! If you have suggestions or think it could be better, contribute back on https://github.com/RichardLitt/check-oss-repos/!
+This checklist is open source! If you have suggestions or think it could be better, contribute back on https://github.com/CURIOSSOrg/check-oss-repos/!
 
 Thank you!
