@@ -1,6 +1,6 @@
 # Repository Review Checklist
 
-This template is meant to be useful for helping contributors and maintainers for understanding how to judge the health of a repository. Some of these tasks may be more focused on maintainers improving their repository, but some of these are also useful for understanding repository health from the contributor perspective.
+This template is meant to be useful for helping contributors and maintainers understand how to judge the health of a repository. Some of these tasks may be more focused on maintainers improving their repository, but some of these are also useful for understanding repository health from the contributor perspective.
 
 None of these are mandatory; this is meant to be a guide.
 

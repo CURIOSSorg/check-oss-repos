@@ -1,6 +1,6 @@
 # Repository Review Checklist
 
-This template is meant to be useful for helping contributors and maintainers for understanding how to judge the health of a repository. Some of these tasks may be more focused on maintainers improving their repository, but some of these are also useful for understanding repository health from the contributor perspective.
+This template is meant to be useful for helping contributors and maintainers understand how to judge the health of a repository. Some of these tasks may be more focused on maintainers improving their repository, but some of these are also useful for understanding repository health from the contributor perspective.
 
 None of these are mandatory; this is meant to be a guide.
 
@@ -21,7 +21,7 @@ None of these are mandatory; this is meant to be a guide.
   - [ ] Does it point to a place for community conversation, like GitHub Discussions, Discord, or Matrix?
   - [ ] Does it encourage conversations in issues before opening huge PRs?
   - [ ] Does it specify where to ask questions on process?
-- [ ] Does it state a policy on AI-assisted contributions?
+  - [ ] Does it state a policy on AI-assisted contributions?
 - [ ] _(Research software)_ Is there a `CITATION.cff` file?
 
 ### Process
@@ -46,7 +46,6 @@ None of these are mandatory; this is meant to be a guide.
 - [ ] Is there a `GOVERNANCE.md`, or a section explaining how decisions are made?
 - [ ] Is there a `.github/FUNDING.yml`, if the project accepts funding?
 
-
 ### Metadata
 - [ ] Is there a description on GitHub?
 - [ ] Are the topics useful?
@@ -54,13 +53,11 @@ None of these are mandatory; this is meant to be a guide.
 
 ### Package Metadata
 
-
 - [ ] Is there a package published somewhere other than GitHub for this code, like in npm, Cargo, or other registries?
 
 ### TODO
 
 - [ ] Anything else you would note?
-
 
 ## Contribute back?
 
