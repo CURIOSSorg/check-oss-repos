@@ -1,12 +1,8 @@
-:wave: Hey there! This is the developer experience audit from @mntnr for this repository. I've added in my thoughts below, in the form of a checklist. Looking forward to seeing what you think; let's see if we can resolve all of the open issues and make this repository shine ✨ 💖 ✨
+# Repository Review Checklist
 
-# Repository Review: [[INSERT REPONAME]](https://github.com/[INSERT REPONAME])
+This template is meant to be useful for helping contributors and maintainers for understanding how to judge the health of a repository. Some of these tasks may be more focused on maintainers improving their repository, but some of these are also useful for understanding repository health from the contributor perspective.
 
-> [INSERT GITHUB DESCRIPTION]
-
-_For notes on anything crossed out, look below. Where I've proposed a fix in a PR, I've checked the item off and linked the PR next to it, like this: (fix proposed in #123). If I think that something is fine, even if it isn't valid according to this checklist, I've checked it off and included a note._
-
-_Tip: GitHub's own checklist at **Insights → Community Standards** covers several of these items at a glance._
+None of these are mandatory; this is meant to be a guide.
 
 ### Reviewing the Repository Docs
 
